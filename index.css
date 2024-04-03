@@ -55,12 +55,14 @@ border-radius: 7px;
 .first-section h2{
     font-size:5rem;
     text-align: center;
+    color: white;
     
 
 }
 .first-section p{
     font-size: 3rem;
     text-align: center;
+    color: white;
 
 }
 .global-section{
@@ -114,11 +116,11 @@ border-radius: 7px;
 }
 /* Work section */
 .grid-single-item .grid-single-image{
-    width: 200px;
+    width: 430px;
 }
 .work-item{
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: auto auto auto;
     text-align: center;
 }
 /* Testimonial section */
